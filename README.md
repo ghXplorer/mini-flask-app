@@ -1,2 +1,2 @@
 # mini-flask-app
-mini flask app based on docker alpine image
+Mini flask app based on docker alpine image
